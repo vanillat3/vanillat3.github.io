@@ -9498,34 +9498,34 @@
   ],
   "images": [
     {
-      "uri": "textures/Boden_baseColor.png"
+      "uri": "https://cdn.glitch.com/333e179c-1def-41b4-b1bf-4c3e40c9f3ea%2FBoden_baseColor.png"
     },
     {
-      "uri": "textures/Boden_metallicRoughness.png"
+      "uri": "https://cdn.glitch.com/333e179c-1def-41b4-b1bf-4c3e40c9f3ea%2FBoden_metallicRoughness.png"
     },
     {
-      "uri": "textures/Boden_normal.png"
+      "uri": "https://cdn.glitch.com/333e179c-1def-41b4-b1bf-4c3e40c9f3ea%2FBoden_normal.png"
     },
     {
-      "uri": "textures/body_baseColor.png"
+      "uri": "https://cdn.glitch.com/333e179c-1def-41b4-b1bf-4c3e40c9f3ea%2Fbody_baseColor.png"
     },
     {
-      "uri": "textures/body_metallicRoughness.png"
+      "uri": "https://cdn.glitch.com/333e179c-1def-41b4-b1bf-4c3e40c9f3ea%2Fbody_metallicRoughness.png"
     },
     {
-      "uri": "textures/body_emissive.png"
+      "uri": "https://cdn.glitch.com/333e179c-1def-41b4-b1bf-4c3e40c9f3ea%2Fbody_emissive.png"
     },
     {
-      "uri": "textures/body_normal.png"
+      "uri": "https://cdn.glitch.com/333e179c-1def-41b4-b1bf-4c3e40c9f3ea%2Fbody_normal.png"
     },
     {
-      "uri": "textures/material_baseColor.png"
+      "uri": "https://cdn.glitch.com/333e179c-1def-41b4-b1bf-4c3e40c9f3ea%2Fmaterial_baseColor.png"
     },
     {
-      "uri": "textures/material_metallicRoughness.png"
+      "uri": "https://cdn.glitch.com/333e179c-1def-41b4-b1bf-4c3e40c9f3ea%2Fmaterial_metallicRoughness.png"
     },
     {
-      "uri": "textures/material_normal.png"
+      "uri": "https://cdn.glitch.com/333e179c-1def-41b4-b1bf-4c3e40c9f3ea%2Fmaterial_normal.png"
     }
   ],
   "materials": [
